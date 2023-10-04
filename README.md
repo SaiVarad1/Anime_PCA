@@ -1,16 +1,6 @@
-# hw4AnimePCA
+# AnimePCA Analysis
 
 ## Sai Varadharajan
-
-## 5/6/
-
-## Files:
-
-Box Folder: https://uwmadison.box.com/s/8oq354ju8hspa2rtql9l9ly1tzvq06r
-
-Dataset CSV File: https://uwmadison.box.com/shared/static/fxzjs879p27h2h3pqdmeht0f7w1foe4p.csv
-
-Rmd File: https://uwmadison.box.com/shared/static/lm538a0we3lefem96ezgf91fb2injvqu.rmd
 
 ## Introduction
 
